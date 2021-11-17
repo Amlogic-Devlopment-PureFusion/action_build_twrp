@@ -1,6 +1,6 @@
 {
   "twrp_url": "https://github.com/Angela123381/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-10.0",
+  "twrp_branch": "twrp-9.0",
   "git_username": "Angela123381",
   "git_email": "1964452629@qq.com",
   "use_own_dt":true ,
