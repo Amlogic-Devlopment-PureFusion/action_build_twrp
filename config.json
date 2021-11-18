@@ -1,8 +1,8 @@
 {
   "twrp_url": "https://github.com/Angela123381/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-9.0",
+  "twrp_branch": "twrp-10.0-deprecated",
   "git_username": "Angela123381",
-  "git_email": "1964452629@qq.com",
+  "git_email": "84948239+Angela123381@users.noreply.github.com",
   "use_own_dt":true ,
   "dt_url": "Angela123381/TWRPZ5",
   "dt_branch": "android-9.0-old",
